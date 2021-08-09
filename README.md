@@ -18,11 +18,29 @@
   ![Android](https://img.shields.io/badge/Android-green?logo=Android&logoColor=white)
 	![Cisco](https://img.shields.io/badge/Cisco-blue?logo=Cisco&logoColor=white)
 	![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white)
-
+<details>
+<summary>🔊 GitHub stats ✨</summary>
+<div markdown="1">
+	
 ![Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangshwan&show_icons=true&theme=radical)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rnltls95)](https://solved.ac/rnltls95)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangshwan)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+</details>
 
+<details>
+<summary>🏆 BOJ RANK 💽</summary>
+<div markdown="1">
+	
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rnltls95)](https://solved.ac/rnltls95)
+</div>
+</details>
+
+<details>
+<summary>💪 Most Used Language 👍</summary>
+<div markdown="1">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangshwan)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+</details>
 <!--
 **kangshwan/kangshwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
