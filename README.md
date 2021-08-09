@@ -21,6 +21,7 @@
 
 ![Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangshwan&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rnltls95)](https://solved.ac/rnltls95)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangshwan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kangshwan/kangshwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
