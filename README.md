@@ -10,6 +10,8 @@
 </div>
 
 ### Profile
+- Goolge Machine Learning Bootcamp 5th (24.07.01~24.10.04)  
+  
 - Naver Connect Boostcamp AI Tech 6th
   - CV (Computer Vision) Track (2023.11~ 2024.04)
 
@@ -18,6 +20,7 @@
   - MS in Information and Communication Engineering (2021.09~2023.08)
 
 ## ♟️Projects
+- [Gemma Fine-tuning](https://github.com/kangshwan/hogwarts_chatbot)
 - [Crowd counting model lightweight project](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-04?tab=readme-ov-file#%EC%A3%BC%EB%85%B8%ED%83%80---%EA%B5%B0%EC%A4%91-%EA%B3%84%EC%88%98crowd-counting-%EB%AA%A8%EB%8D%B8%EC%9D%98-%EA%B3%84%EC%82%B0-%ED%9A%A8%EC%9C%A8%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B2%BD%EB%9F%89-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B8%B0%EC%97%85-%EC%97%B0%EA%B3%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)  
 - [Distributed parallel artificial neural network execution method for efficient edge computing](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=f09c4efce71739edffe0bdc3ef48d419&keyword=%EA%B0%95%EC%8A%B9%ED%99%98)  
 - [AirSim based deep reinforcement learning for autonomouse driving](https://github.com/ESELab-KSK/DeepRLCar)
