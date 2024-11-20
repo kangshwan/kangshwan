@@ -5,11 +5,15 @@
 
 [![Tech Blog](https://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=tistory&logoColor=white)](https://rnltls.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-%EA%B0%95-8b5276295/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rnltls97@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=rnltls97@gmail.com)
 
 </div>
 
 ### Profile
+- Anchor Node
+  - AI Engineer (2024.10.15~)
+
+
 - Goolge Machine Learning Bootcamp 5th (24.07.01~24.10.04)  
   
 - Naver Connect Boostcamp AI Tech 6th
